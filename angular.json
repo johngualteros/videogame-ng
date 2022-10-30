@@ -28,7 +28,10 @@
               "src/assets"
             ],
             "styles": [
+<<<<<<< HEAD
               "./node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css",
+=======
+>>>>>>> afb5febb1861988a821b88ee9141709b82a06ce7
               "src/styles.scss"
             ],
             "scripts": []
@@ -97,7 +100,10 @@
               "src/assets"
             ],
             "styles": [
+<<<<<<< HEAD
               "./node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css",
+=======
+>>>>>>> afb5febb1861988a821b88ee9141709b82a06ce7
               "src/styles.scss"
             ],
             "scripts": []

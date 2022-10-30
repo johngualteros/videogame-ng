@@ -1,7 +1,10 @@
 # VideogameNg
+<<<<<<< HEAD
 ![](./src/assets/game1.png)
 ![](./src/assets/game2.png)
 ![](./src/assets/game3.png)
+=======
+>>>>>>> afb5febb1861988a821b88ee9141709b82a06ce7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
